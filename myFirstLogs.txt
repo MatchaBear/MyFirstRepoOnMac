@@ -7,3 +7,39 @@ infinityfree
 site name: matchabear38
 gRC@!WNx&DV*NFZoXM%W
 cannot install wordpress, password cannot be set
+
+google cloud hosting
+Free trial status: $410.70 credit and 91 days remaining - with a full account, you'll get unlimited access to all of Google Cloud Platform.
+
+WordPress
+Solution provided by Google Click to Deploy
+Site address
+https://34.174.169.226/  -> matchabear.space niagahoster domain
+Admin URL
+https://34.174.169.226/wp-admin 
+WordPress MySQL user
+wordpress
+WordPress MySQL password (Temporary)
+bpAag3sq
+MySQL root user
+root
+MySQL root password (Temporary)
+eteBrzTZM3cM6H
+WordPress Admin user
+bernhard.hustomo@gmail.com
+WordPress Admin password (Temporary)
+KZ-H1zXY
+Instance
+wordpress-1-vm
+Instance zone
+us-south1-c
+Instance machine type
+e2-micro
+ MORE ABOUT THE SOFTWARE
+Get started with WordPress
+LOG INTO THE ADMIN PANEL 
+SSH
+
+Suggested next steps
+Access the phpMyAdmin web interface
+Visit http://34.174.169.226/phpmyadmin 
